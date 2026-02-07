@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-02-07T23:31:47.168397+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-02-08T00:36:49.537612+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华晨宇",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华晨宇深圳演唱会",
-          "url": "https://www.douyin.com/hot/2392166",
-          "source": "抖音",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 21时51分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
