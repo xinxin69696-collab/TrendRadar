@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:45:11.786961+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-03-25T21:21:57.379362+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时21分]"
         }
       ]
     }
