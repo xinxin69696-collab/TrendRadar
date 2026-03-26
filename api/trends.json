@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-03-26T23:09:53.390244+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2026-03-27T01:08:14.718402+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华晨宇",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华晨宇演唱会卷到2.0了",
-          "url": "https://www.douyin.com/hot/2443275",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 13时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
