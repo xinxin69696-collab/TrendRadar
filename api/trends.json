@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T06:59:58.874224+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-04-23T07:55:36.321439+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             6,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时55分]"
         },
         {
           "title": "华晨宇演唱会延期",
