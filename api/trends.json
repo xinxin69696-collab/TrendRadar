@@ -1,63 +1,44 @@
 {
-  "generated_at": "2026-04-23T22:07:31.628847+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-04-24T02:09:05.962232+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华晨宇",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "华晨宇演唱会延期",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            7,
-            6,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时55分]"
-        },
         {
           "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
           "url": "https://www.zhihu.com/question/2030426048920298351",
           "source": "知乎",
           "ranks": [
-            8,
-            9,
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 22时07分]"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "华晨宇演唱会场地开始拆了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E5%BC%80%E5%A7%8B%E6%8B%86%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "title": "曝华晨宇演唱会前期投入好几个亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E6%9C%9F%E6%8A%95%E5%85%A5%E5%A5%BD%E5%87%A0%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            6,
-            28,
-            24
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 22时07分]"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "华晨宇演唱会延期",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F",
-          "source": "百度热搜",
+          "title": "业内谈华晨宇演唱会场地搭建难度",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E8%B0%88%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E6%90%AD%E5%BB%BA%E9%9A%BE%E5%BA%A6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            29
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
         }
       ]
     }
