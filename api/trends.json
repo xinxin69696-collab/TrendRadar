@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T20:02:33.128194+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-04-23T22:07:31.628847+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 22时07分]"
         },
         {
           "title": "华晨宇演唱会场地开始拆了",
@@ -41,11 +41,12 @@
           "source": "微博",
           "ranks": [
             6,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时07分]"
         },
         {
           "title": "华晨宇演唱会延期",
