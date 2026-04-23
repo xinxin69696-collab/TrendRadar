@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T10:57:42.073759+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-23T13:36:55.162549+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华晨宇",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华晨宇演唱会延期",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 07时55分]"
+        },
+        {
+          "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
+          "url": "https://www.zhihu.com/question/2030426048920298351",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "华晨宇演唱会延期",
