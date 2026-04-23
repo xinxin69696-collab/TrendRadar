@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T04:09:08.736746+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-04-24T05:52:04.068948+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 04时09分]"
-        },
-        {
-          "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
-          "url": "https://www.zhihu.com/question/2030426048920298351",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
+          "appearance_count": 6,
+          "time_info": "[02时08分 ~ 05时52分]"
         },
         {
           "title": "业内谈华晨宇演唱会场地搭建难度",
@@ -35,6 +24,17 @@
           "source": "微博",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时08分 ~ 05时52分]"
+        },
+        {
+          "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
+          "url": "https://www.zhihu.com/question/2030426048920298351",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
