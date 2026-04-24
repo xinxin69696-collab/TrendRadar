@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:53:48.782349+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-04-25T06:43:49.487601+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             13,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 05时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时43分]"
         },
         {
           "title": "华晨宇4场演唱会宣布延期",
@@ -30,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 05时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时43分]"
         },
         {
           "title": "官方回应华晨宇演唱会选址质疑",
@@ -40,11 +41,12 @@
           "ranks": [
             23,
             25,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时59分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 06时43分]"
         }
       ]
     }
