@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:34:59.571285+08:00",
-  "total_titles_processed": 799,
-  "failed_sources": [
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2026-07-08T17:27:56.714254+08:00",
+  "total_titles_processed": 978,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
